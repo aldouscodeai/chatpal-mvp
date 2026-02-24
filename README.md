@@ -1,6 +1,6 @@
 # Chatpal MVP
 
-A simple Python-based booking assistant prototype.
+A Python/LLM based booking assistant prototype.
 
 ## What it does
 - Detects booking intent
